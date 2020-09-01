@@ -1,0 +1,4 @@
+MX1291 is invalid - Duplicate digits detected.
+DD7102 is invalid - First and second characters are the same.
+ID: ZT4231 - no name found 33.25 C-
+WG7875 is invalid - Duplicate digits detected.
